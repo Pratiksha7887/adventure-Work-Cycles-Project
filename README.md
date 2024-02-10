@@ -1,4 +1,4 @@
 # adventure-Work-Cycles-Project
-This is Data Ananlyst/Business Project which contains the Visualization tools like Excel for Data Cleaning,Powerbi and Tableau for Report Building and SQL from data Filtering.
-There are total 8 Dataset file which has studied to prepared dashboard of Sales and Customer Overview.
-In Power Point Presentation you can see the challenges and conclusion of the Project.
+In this Adventure work cycles, our goal was to analyze the data of sales and customers overview.
+This project involves harnessing data from various sources to glean insights into customer behavior, product performance, and operational processes.
+And with the help of visulization tools we have analysis the sales and customers overview.
