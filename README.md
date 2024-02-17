@@ -8,13 +8,13 @@ Adventure Works Cycles needs a way to track KPIs (sales, revenue, profit, return
 and identify high-value customers.
 
 ## Contents
-*Connect and transform the raw data.
+* Connect and transform the raw data.
 
-*Creating table relationships and data models.
+* Creating table relationships and data models.
 
-*Create new calculated columns and Measures.
+* Create new calculated columns and Measures.
 
-*Design an interactive report to analyze and visualize the data.
+* Design an interactive report to analyze and visualize the data.
 
 ### Data Model
 
@@ -24,8 +24,9 @@ and identify high-value customers.
 
 ### The Power BI Report View
 
-*The Power BI report view consist of various tools and visualization options such as Charts, Slicers, Maps, Matrices, etc Filters Pane such as Visual-Level, Page-Level, and Report-Level Filters
-*This options will provide to create Interactive visualization.
+* The Power BI report view consist of various tools and visualization options such as Charts, Slicers, Maps, Matrices, etc Filters Pane such as Visual-Level, Page-Level, and Report-Level Filters
+  
+* This options will provide to create Interactive visualization.
 
 Summary
 ![Screenshot (13)](https://github.com/Pratiksha7887/adventure-Work-Cycles-Project/assets/157275594/863dd599-089f-49e0-8a80-4f6d27578ccc)
@@ -34,6 +35,7 @@ Product detail
 ![Screenshot (14)](https://github.com/Pratiksha7887/adventure-Work-Cycles-Project/assets/157275594/13fb0fb8-7396-4a2e-b966-796b728eca48)
 
 ### The SQL Server
+
 * With the help of SQL we have calculated the KPI'S.
 
 
