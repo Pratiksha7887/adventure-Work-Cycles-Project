@@ -22,10 +22,6 @@ Adventure Works Cycles needs a way to track KPIs (sales, revenue, profit, return
 
 * Design an interactive report to analyze and visualize the data
 
-## Documentation
-
-Check the datasets used in the project [Documentation](https://github.com/himanshu-004/AdventureWorks/tree/main/Documentation)
-
 
 ## Connect and transform the raw data
 
