@@ -9,8 +9,11 @@ and identify high-value customers.
 
 ## Contents
 *Connect and transform the raw data.
+
 *Creating table relationships and data models.
+
 *Create new calculated columns and Measures.
+
 *Design an interactive report to analyze and visualize the data.
 
 ### Data Model
